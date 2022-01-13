@@ -1,0 +1,46 @@
+############# réseau physique ##########
+n=20
+p=0.3
+k=20
+
+##interval capacité des neouds ((a,b): random between a and b)
+cap_node_a=1
+cap_node_b=40
+
+#interval capacité des bandes passantes ((a,b): random between a and b)
+cap_bandwidth_a=1
+cap_bandwidth_b=40
+
+############# slice ##########
+n1=5
+p1=0.3
+k1=2
+
+#interval demandes des neouds ((a,b): random between a and b)
+cap_node_slice_a=1
+cap_node_slice_b=40
+
+#interval demandes en bandes passantes ((a,b): random between a and b)
+cap_bandwidth_slice_a=1
+cap_bandwidth_slice_b=40
+
+#folder name
+name_floder=1
+
+#number of slices
+nbr_slices=49
+
+#min_paths
+min_paths=1
+
+#max_paths
+max_paths=3
+
+#objectif
+objectif=1
+
+#update
+update=1
+
+#Timelimit
+Timelimit=300
