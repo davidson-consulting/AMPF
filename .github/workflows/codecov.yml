@@ -1,0 +1,21 @@
+name: Codecov
+on: [push, pull_request]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch
+        uses: actions/checkout@master
+      - name: Main
+        run: |
+          sudo apt-get install -y libjsoncpp-dev
+          ./main Data/test/test_network Data/test/slice_0 2 2 300
+          make gcov0
+          rm -f main
+      - name: Upload
+        uses: codecov/codecov-action@v1
+        with:
+          files: |
+              ./instance.cpp.gcov
+              ./heuristic.cpp.gcov
+              ./exact_solution.cpp.gcov
