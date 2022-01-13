@@ -1,4 +1,4 @@
-
+![example workflow](https://github.com/davidson-consulting/AMPF/actions/workflows/codecov.yml/badge.svg)
 [![codecov](https://codecov.io/gh/davidson-consulting/AMPF/branch/master/graph/badge.svg?token=5ZbtgZLoKh)](https://codecov.io/gh/davidson-consulting/AMPF)
 
 ## Table of contents
