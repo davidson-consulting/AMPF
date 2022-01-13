@@ -1,0 +1,489 @@
+{
+    "all_paths": [
+        {
+            "i": 0,
+            "j": 1,
+            "simplePaths": [
+                [
+                    0,
+                    1
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 0,
+            "j": 2,
+            "simplePaths": [
+                [
+                    0,
+                    2
+                ],
+                [
+                    0,
+                    2
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 0,
+            "j": 3,
+            "simplePaths": [
+                [
+                    0,
+                    3
+                ],
+                [
+                    0,
+                    3
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 0,
+            "j": 4,
+            "simplePaths": [
+                [
+                    0,
+                    4
+                ],
+                [
+                    0,
+                    4
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 0,
+            "j": 5,
+            "simplePaths": [
+                [
+                    0,
+                    5
+                ],
+                [
+                    0,
+                    5
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 0,
+            "j": 6,
+            "simplePaths": [
+                [
+                    0,
+                    6
+                ],
+                [
+                    0,
+                    6
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 1,
+            "j": 2,
+            "simplePaths": [
+                [
+                    1,
+                    2
+                ],
+                [
+                    1,
+                    2
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 1,
+            "j": 3,
+            "simplePaths": [
+                [
+                    1,
+                    3
+                ],
+                [
+                    1,
+                    3
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 1,
+            "j": 4,
+            "simplePaths": [
+                [
+                    1,
+                    4
+                ],
+                [
+                    1,
+                    4
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 1,
+            "j": 5,
+            "simplePaths": [
+                [
+                    1,
+                    5
+                ],
+                [
+                    1,
+                    5
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 1,
+            "j": 6,
+            "simplePaths": [
+                [
+                    1,
+                    6
+                ],
+                [
+                    1,
+                    6
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 2,
+            "j": 3,
+            "simplePaths": [
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 2,
+            "j": 4,
+            "simplePaths": [
+                [
+                    2,
+                    4
+                ],
+                [
+                    2,
+                    4
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 2,
+            "j": 5,
+            "simplePaths": [
+                [
+                    2,
+                    5
+                ],
+                [
+                    2,
+                    5
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 2,
+            "j": 6,
+            "simplePaths": [
+                [
+                    2,
+                    6
+                ],
+                [
+                    2,
+                    6
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 3,
+            "j": 4,
+            "simplePaths": [
+                [
+                    3,
+                    4
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 3,
+            "j": 5,
+            "simplePaths": [
+                [
+                    3,
+                    5
+                ],
+                [
+                    3,
+                    5
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 3,
+            "j": 6,
+            "simplePaths": [
+                [
+                    3,
+                    6
+                ],
+                [
+                    3,
+                    6
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 4,
+            "j": 5,
+            "simplePaths": [
+                [
+                    4,
+                    5
+                ],
+                [
+                    4,
+                    5
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 4,
+            "j": 6,
+            "simplePaths": [
+                [
+                    4,
+                    6
+                ],
+                [
+                    4,
+                    6
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        },
+        {
+            "i": 5,
+            "j": 6,
+            "simplePaths": [
+                [
+                    5,
+                    6
+                ],
+                [
+                    5,
+                    6
+                ]
+            ],
+            "simplePathslens": [
+                2,
+                2
+            ],
+            "simplePathsmaxweight": [
+                50,
+                50
+            ],
+            "len": 2
+        }
+    ],
+    "somme_len": 42,
+    "time": 0.01262807846069336
+}

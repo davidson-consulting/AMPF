@@ -9,10 +9,10 @@ network=Data/test/test_network
 slice=Data/test/slice_0
 
 #index widest if index=1 shortest if index=2
-index=2
+index=1
 
 #max_paths
-max_paths=1
+max_paths=2
 
 #Timelimit
 Timelimit=300
