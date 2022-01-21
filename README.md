@@ -1,5 +1,6 @@
 ![example workflow](https://github.com/davidson-consulting/AMPF/actions/workflows/codecov.yml/badge.svg)
 [![codecov](https://codecov.io/gh/davidson-consulting/AMPF/branch/master/graph/badge.svg?token=5ZbtgZLoKh)](https://codecov.io/gh/davidson-consulting/AMPF)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=davidson-consulting_AMPF&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=davidson-consulting_AMPF)
 
 ## Table of contents
 * [General info](#general-info)
